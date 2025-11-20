@@ -4,13 +4,6 @@ An AI-powered assistant designed to help GroMo Partners (GPs) improve their sale
 
 ![GroMo AI Mentor Demo](https://github.com/user-attachments/assets/b1b66068-e532-42a6-acdd-fc0df1a79876)
 
-## 📋 Project Resources
-
-| Resource            | Description                                        | Link                                                                                             |
-| ------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 📊 **Ideation PPT** | Complete project presentation and concept overview | [View Presentation](https://drive.google.com/file/d/1G43za8HC5fNapsXOygYPtF7mGM7qZ0dX/view)      |
-| 📱 **App Demo**     | Live demonstration of the application features     | [Watch Demo](https://drive.google.com/file/d/1XUMvxhC-QP2-ZG9PzD6Hl231rOjDiA0m/view?usp=sharing) |
-
 ## Features
 
 **🤖 GroMo AI Copilot**  
@@ -59,9 +52,4 @@ cd Frontend
 # Build and run the application
 ```
 
-## Detailed Setup
 
-For comprehensive setup instructions, refer to the individual README files:
-
-- [Frontend Setup](Frontend/README.md)
-- [Backend Setup](Backend/README.md)
