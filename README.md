@@ -30,8 +30,8 @@ Comprehensive analysis using WhatsApp chat history and uploaded call recordings 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anurag03-tech/GroMo-AI-Mentor.git
-cd GroMo-AI-Mentor
+git clone https://github.com/shivraj-debug/GroMo_Ai
+cd GroMo_Ai
 ```
 
 ### 2. Set up the Backend
